@@ -57,7 +57,7 @@ An eclectic mix of families and other college students dined with us. The space 
 The drink menu had local favorites on tap like Natty Boh along with creative craft cocktails. Impressively, their mocktail menu was also just as long as their normal drink menu, highlighting their careful attention to include all diners.
 
 ### The Bill
-The restaurant week menu was $55.26 per person. On the a la carte menu, dishes were broken up into "Little" and "Small" plates which ranged from $8 to $24 and "Big" entrees which were $25 to $48. More premium options like certain cuts of steak were available at around $75.
+The restaurant week menu was $55.26 per person. On the à la carte menu, dishes were broken up into "Little" and "Small" plates which ranged from $8 to $24 and "Big" entrees which were $25 to $48. More premium options like certain cuts of steak were available at around $75.
 
 ### What We Liked
 Mozzarella Sticks; Pan Roasted Mussels; Bone-In Pork and Beans; Red Coconut Curry Duck Breast. **I would recommend the Pan Roasted Mussels.**
