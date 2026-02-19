@@ -1,4 +1,5 @@
-<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="meal-prep-title">
+  <title id="meal-prep-title">Color-coded meal prep containers representing predictability</title>
   <!-- Meal prep containers -->
   <defs>
     <linearGradient id="container" x1="0%" y1="0%" x2="0%" y2="100%">
