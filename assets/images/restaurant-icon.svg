@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" style="background: #fdfbf7">
+  <defs>
+    <linearGradient id="buildingGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#a67c52;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8b6f47;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Building -->
+  <rect x="100" y="150" width="200" height="200" fill="url(#buildingGrad)" rx="8"/>
+  
+  <!-- Windows -->
+  <rect x="130" y="180" width="50" height="50" fill="#fdfbf7" opacity="0.8" rx="4"/>
+  <rect x="220" y="180" width="50" height="50" fill="#fdfbf7" opacity="0.8" rx="4"/>
+  <rect x="130" y="260" width="50" height="50" fill="#fdfbf7" opacity="0.8" rx="4"/>
+  <rect x="220" y="260" width="50" height="50" fill="#fdfbf7" opacity="0.8" rx="4"/>
+  
+  <!-- Awning -->
+  <path d="M 80 150 L 320 150 L 310 130 L 90 130 Z" fill="#d4442e" opacity="0.9"/>
+  <rect x="80" y="130" width="240" height="5" fill="#b83825"/>
+  
+  <!-- Door -->
+  <rect x="175" y="280" width="50" height="70" fill="#6b4423" rx="4"/>
+  <circle cx="210" cy="315" r="4" fill="#e8dcc8"/>
+  
+  <!-- Sign -->
+  <rect x="140" y="90" width="120" height="35" fill="#e8dcc8" rx="4"/>
+  <text x="200" y="115" font-family="Georgia, serif" font-size="18" fill="#6b4423" text-anchor="middle" font-weight="bold">
+    OPEN
+  </text>
+  
+  <!-- Decorative plants -->
+  <ellipse cx="70" cy="340" rx="20" ry="30" fill="#7a9b7a"/>
+  <ellipse cx="330" cy="340" rx="20" ry="30" fill="#7a9b7a"/>
+  
+  <!-- Ground -->
+  <rect x="0" y="350" width="400" height="50" fill="#d4c4b0" opacity="0.4"/>
+</svg>

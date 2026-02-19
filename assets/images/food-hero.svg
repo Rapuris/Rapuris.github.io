@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" style="background: linear-gradient(135deg, #f9f6f1 0%, #fdfbf7 100%)">
+  <defs>
+    <linearGradient id="plateGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e8dcc8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d4c4b0;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="foodGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#a67c52;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8b6f47;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Decorative background elements -->
+  <circle cx="100" cy="100" r="60" fill="#e8dcc8" opacity="0.3"/>
+  <circle cx="1100" cy="300" r="80" fill="#d4c4b0" opacity="0.3"/>
+  <circle cx="950" cy="80" r="50" fill="#a67c52" opacity="0.2"/>
+  
+  <!-- Main plate -->
+  <ellipse cx="600" cy="240" rx="180" ry="150" fill="url(#plateGrad)" opacity="0.9"/>
+  <ellipse cx="600" cy="235" rx="165" ry="135" fill="#fdfbf7"/>
+  
+  <!-- Food on plate - artistic representation -->
+  <ellipse cx="580" cy="220" rx="60" ry="45" fill="url(#foodGrad)"/>
+  <ellipse cx="620" cy="230" rx="50" ry="40" fill="url(#foodGrad)"/>
+  <circle cx="600" cy="245" r="20" fill="#6b4423"/>
+  
+  <!-- Fork -->
+  <rect x="400" y="200" width="8" height="120" fill="#8b7d6b" rx="2"/>
+  <rect x="390" y="190" width="6" height="25" fill="#8b7d6b" rx="1"/>
+  <rect x="398" y="190" width="6" height="25" fill="#8b7d6b" rx="1"/>
+  <rect x="406" y="190" width="6" height="25" fill="#8b7d6b" rx="1"/>
+  <rect x="414" y="190" width="6" height="25" fill="#8b7d6b" rx="1"/>
+  
+  <!-- Knife -->
+  <rect x="750" y="200" width="8" height="120" fill="#8b7d6b" rx="2"/>
+  <path d="M 746 185 L 762 185 L 760 205 L 748 205 Z" fill="#a89886"/>
+  
+  <!-- Decorative herbs -->
+  <path d="M 650 210 Q 655 205 660 210" stroke="#7a9b7a" stroke-width="2" fill="none"/>
+  <path d="M 655 207 Q 657 203 659 207" stroke="#7a9b7a" stroke-width="2" fill="none"/>
+  <circle cx="658" cy="202" r="2" fill="#7a9b7a"/>
+  
+  <!-- Text -->
+  <text x="600" y="100" font-family="Georgia, serif" font-size="48" fill="#6b4423" text-anchor="middle" font-weight="bold">
+    Food Chronicles
+  </text>
+  <text x="600" y="130" font-family="Georgia, serif" font-size="20" fill="#7a6f5d" text-anchor="middle" font-style="italic">
+    Honest reviews, real flavors
+  </text>
+</svg>
