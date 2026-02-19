@@ -1,0 +1,41 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Hamster wheel metaphor -->
+  <defs>
+    <linearGradient id="wheelGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#7a7a7a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4a4a4a;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="600" height="400" fill="#f5f5f5"/>
+  
+  <!-- Hamster wheel -->
+  <circle cx="300" cy="200" r="120" fill="none" stroke="url(#wheelGrad)" stroke-width="12"/>
+  <circle cx="300" cy="200" r="100" fill="none" stroke="#3a3a3a" stroke-width="2" stroke-dasharray="10,5"/>
+  <circle cx="300" cy="200" r="80" fill="none" stroke="#3a3a3a" stroke-width="2" stroke-dasharray="10,5"/>
+  <circle cx="300" cy="200" r="60" fill="none" stroke="#3a3a3a" stroke-width="2" stroke-dasharray="10,5"/>
+  
+  <!-- Spokes -->
+  <line x1="300" y1="80" x2="300" y2="320" stroke="#3a3a3a" stroke-width="3"/>
+  <line x1="180" y1="200" x2="420" y2="200" stroke="#3a3a3a" stroke-width="3"/>
+  <line x1="215" y1="115" x2="385" y2="285" stroke="#3a3a3a" stroke-width="2"/>
+  <line x1="215" y1="285" x2="385" y2="115" stroke="#3a3a3a" stroke-width="2"/>
+  
+  <!-- Center hub -->
+  <circle cx="300" cy="200" r="20" fill="#5a5a5a" stroke="#2a2a2a" stroke-width="2"/>
+  
+  <!-- Arrow indicating rotation -->
+  <path d="M 380 160 Q 400 150 410 170" fill="none" stroke="#8b1a1a" stroke-width="4" 
+        stroke-linecap="round"/>
+  <polygon points="410,170 405,175 415,177" fill="#8b1a1a"/>
+  
+  <!-- Shadow -->
+  <ellipse cx="310" cy="340" rx="130" ry="20" fill="#000000" opacity="0.15"/>
+  
+  <!-- Text -->
+  <text x="300" y="380" font-family="Georgia, serif" font-size="20" font-style="italic" 
+        fill="#666" text-anchor="middle">
+    The Comfort of Routine
+  </text>
+</svg>
