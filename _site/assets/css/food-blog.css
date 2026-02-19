@@ -1,0 +1,212 @@
+/* Food Blog Custom Styles */
+
+/* Hero Image Styling */
+.hero-image {
+    width: 100%;
+    max-width: 1200px;
+    height: auto;
+    margin: 2rem auto;
+    display: block;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+    transition: transform 0.3s ease;
+}
+
+.hero-image:hover {
+    transform: scale(1.02);
+}
+
+/* Image Caption Styling */
+.image-caption {
+    text-align: center;
+    font-style: italic;
+    color: #666;
+    font-size: 0.9rem;
+    margin-top: 0.5rem;
+    margin-bottom: 2rem;
+    line-height: 1.4;
+}
+
+/* Article Layout */
+.food-blog-post {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+    font-family: 'Georgia', serif;
+    line-height: 1.8;
+    color: #333;
+}
+
+.food-blog-post h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    color: #1a1a1a;
+    line-height: 1.2;
+}
+
+.food-blog-post h2 {
+    font-size: 1.8rem;
+    font-weight: 600;
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+    color: #2a2a2a;
+}
+
+.food-blog-post h3 {
+    font-size: 1.4rem;
+    font-weight: 600;
+    margin-top: 2rem;
+    margin-bottom: 0.8rem;
+    color: #3a3a3a;
+}
+
+.food-blog-post p {
+    font-size: 1.1rem;
+    margin-bottom: 1.5rem;
+    text-align: justify;
+}
+
+/* Article Images */
+.article-image {
+    width: 100%;
+    max-width: 700px;
+    height: auto;
+    margin: 2rem auto;
+    display: block;
+    border-radius: 6px;
+    box-shadow: 0 3px 15px rgba(0, 0, 0, 0.12);
+}
+
+/* Image Container for better spacing */
+.image-container {
+    margin: 2.5rem 0;
+    text-align: center;
+}
+
+/* Supplementary Section */
+.supplementary-section {
+    background-color: #f8f9fa;
+    padding: 2rem;
+    border-radius: 8px;
+    margin-top: 3rem;
+    border-left: 4px solid #e74c3c;
+}
+
+.supplementary-section h3 {
+    color: #e74c3c;
+    margin-top: 1.5rem;
+    font-size: 1.3rem;
+}
+
+.supplementary-section h3:first-child {
+    margin-top: 0;
+}
+
+.supplementary-section p {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+}
+
+/* Pull Quote Styling */
+.pull-quote {
+    font-size: 1.3rem;
+    font-style: italic;
+    color: #555;
+    border-left: 4px solid #e74c3c;
+    padding-left: 1.5rem;
+    margin: 2rem 0;
+    line-height: 1.6;
+}
+
+/* Rating or Highlights Box */
+.highlights-box {
+    background-color: #fff3cd;
+    border: 2px solid #ffc107;
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin: 2rem 0;
+}
+
+.highlights-box h3 {
+    color: #856404;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+.highlights-box p {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .food-blog-post h1 {
+        font-size: 2rem;
+    }
+    
+    .food-blog-post h2 {
+        font-size: 1.5rem;
+    }
+    
+    .food-blog-post h3 {
+        font-size: 1.2rem;
+    }
+    
+    .food-blog-post p {
+        font-size: 1rem;
+        text-align: left;
+    }
+    
+    .hero-image,
+    .article-image {
+        border-radius: 4px;
+        margin: 1.5rem auto;
+    }
+    
+    .supplementary-section {
+        padding: 1.5rem;
+    }
+    
+    .pull-quote {
+        font-size: 1.1rem;
+        padding-left: 1rem;
+    }
+}
+
+/* Additional Typography */
+.food-blog-post strong {
+    font-weight: 600;
+    color: #2a2a2a;
+}
+
+.food-blog-post em {
+    font-style: italic;
+}
+
+/* List Styling */
+.food-blog-post ul,
+.food-blog-post ol {
+    margin-bottom: 1.5rem;
+    padding-left: 2rem;
+}
+
+.food-blog-post li {
+    margin-bottom: 0.5rem;
+    line-height: 1.6;
+}
+
+/* Date and Meta Information */
+.post-meta {
+    color: #999;
+    font-size: 0.95rem;
+    margin-bottom: 2rem;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+/* Divider */
+.divider {
+    border: none;
+    border-top: 1px solid #ddd;
+    margin: 3rem 0;
+}
