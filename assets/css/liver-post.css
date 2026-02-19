@@ -1,14 +1,14 @@
 /* Liver and Let Die Custom Styles */
 
-/* Dark, introspective theme */
+/* Dark, introspective theme with refined earth tones */
 .liver-post {
     max-width: 800px;
     margin: 0 auto;
     padding: 2rem 1rem;
     font-family: 'Georgia', serif;
     line-height: 1.9;
-    color: #2c2c2c;
-    background: linear-gradient(to bottom, #fafafa 0%, #f5f5f5 100%);
+    color: #3d3d3d;
+    background: linear-gradient(to bottom, #fdfbf7 0%, #f9f6f1 100%);
 }
 
 /* Title with dramatic flair */
@@ -16,7 +16,7 @@
     font-size: 3rem;
     font-weight: 700;
     margin-bottom: 0.5rem;
-    color: #8b1a1a;
+    color: #6b4423;
     line-height: 1.2;
     text-align: center;
     font-family: 'Times New Roman', serif;
@@ -27,10 +27,10 @@
 .tagline {
     text-align: center;
     font-style: italic;
-    color: #666;
+    color: #7a6f5d;
     font-size: 1.2rem;
     margin-bottom: 3rem;
-    border-bottom: 2px solid #ddd;
+    border-bottom: 2px solid #d9cbb8;
     padding-bottom: 2rem;
 }
 
@@ -39,7 +39,7 @@
     font-size: 1.15rem;
     margin-bottom: 1.8rem;
     text-align: left;
-    color: #333;
+    color: #4a4a4a;
     text-indent: 2em;
 }
 
@@ -55,7 +55,7 @@
     float: left;
     line-height: 0.85;
     margin: 0.1em 0.1em 0 0;
-    color: #8b1a1a;
+    color: #8b6f47;
     font-family: 'Georgia', serif;
 }
 
@@ -66,22 +66,22 @@
     margin: 3rem auto;
     position: relative;
     overflow: hidden;
-    border-radius: 4px;
-    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
+    border-radius: 8px;
+    box-shadow: 0 6px 24px rgba(107, 68, 35, 0.15);
 }
 
 .hero-image {
     width: 100%;
     height: auto;
     display: block;
-    filter: contrast(1.1) brightness(0.95);
+    filter: contrast(1.05) brightness(1.0) saturate(0.95);
 }
 
 /* Image captions */
 .image-caption {
     text-align: center;
     font-style: italic;
-    color: #777;
+    color: #8b7d6b;
     font-size: 0.95rem;
     margin-top: 1rem;
     margin-bottom: 2.5rem;
@@ -92,13 +92,13 @@
 .pull-quote {
     font-size: 1.4rem;
     font-style: italic;
-    color: #444;
-    border-left: 5px solid #8b1a1a;
+    color: #5a4f3e;
+    border-left: 5px solid #a67c52;
     padding-left: 2rem;
     padding-right: 1rem;
     margin: 3rem 1rem;
     line-height: 1.7;
-    background: rgba(139, 26, 26, 0.03);
+    background: rgba(166, 124, 82, 0.06);
     padding-top: 1.5rem;
     padding-bottom: 1.5rem;
     position: relative;
@@ -110,7 +110,7 @@
     position: absolute;
     left: 0.5rem;
     top: -0.5rem;
-    color: #8b1a1a;
+    color: #a67c52;
     opacity: 0.3;
     font-family: Georgia, serif;
 }
@@ -122,15 +122,15 @@
     height: auto;
     margin: 2.5rem auto;
     display: block;
-    border-radius: 4px;
-    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
-    filter: saturate(0.9);
+    border-radius: 8px;
+    box-shadow: 0 4px 16px rgba(107, 68, 35, 0.12);
+    filter: saturate(0.95);
 }
 
 /* Dividers between sections */
 .section-divider {
     border: none;
-    border-top: 1px solid #ccc;
+    border-top: 1px solid #d4c4b0;
     margin: 4rem auto;
     width: 60%;
     position: relative;
@@ -142,9 +142,9 @@
     left: 50%;
     top: -0.7rem;
     transform: translateX(-50%);
-    background: #f5f5f5;
+    background: #f9f6f1;
     padding: 0 1rem;
-    color: #999;
+    color: #a89886;
     letter-spacing: 0.5rem;
 }
 
@@ -161,23 +161,23 @@
 
 /* Ending section */
 .ending-note {
-    background: rgba(139, 26, 26, 0.05);
-    border: 1px solid rgba(139, 26, 26, 0.2);
+    background: rgba(166, 124, 82, 0.08);
+    border: 1px solid rgba(166, 124, 82, 0.25);
     border-radius: 8px;
     padding: 2rem;
     margin: 3rem 0;
     font-style: italic;
     text-align: center;
-    color: #555;
+    color: #5a4f3e;
 }
 
 /* Visual embellishments */
 .visual-break {
     text-align: center;
     margin: 3rem 0;
-    color: #8b1a1a;
+    color: #a67c52;
     font-size: 1.5rem;
-    opacity: 0.4;
+    opacity: 0.5;
 }
 
 /* Image grid for multiple images */
@@ -192,13 +192,13 @@
     width: 100%;
     height: 250px;
     object-fit: cover;
-    border-radius: 4px;
-    box-shadow: 0 3px 15px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+    box-shadow: 0 3px 12px rgba(107, 68, 35, 0.12);
     transition: transform 0.3s ease;
 }
 
 .image-grid img:hover {
-    transform: scale(1.03);
+    transform: scale(1.02);
 }
 
 /* Responsive Design */
@@ -258,6 +258,6 @@
     left: 0;
     right: 0;
     height: 4px;
-    background: linear-gradient(to right, #8b1a1a, #c73e3e, #8b1a1a);
+    background: linear-gradient(to right, #8b6f47, #a67c52, #8b6f47);
     z-index: 1000;
 }
