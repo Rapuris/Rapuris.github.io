@@ -1,1 +1,6 @@
 preview.html
+vendor/
+Gemfile
+Gemfile.lock
+.bundle/
+_site/
