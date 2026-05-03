@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <div class="about-lead">
-  <img src="/assets/images/about-banner.svg" alt="A clean, minimalist illustration of a kitchen workspace representing culinary exploration.">
+  <img src="/assets/images/about-banner.png" alt="A professional flat-lay of a culinary notebook and spices, representing thoughtful food exploration.">
 </div>
 
 ## Hi, I'm Sampath
