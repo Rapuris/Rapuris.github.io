@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Masala Grilled Cheese: A Dorm Room Comfort Story"
-date: 2026-05-08
+date: 2026-05-03
 categories:
   - recipe
-custom_css: food-blog
+custom_css: premium-food-blog
 hero_image: /assets/images/masala_grilled_cheese.png
 hero_alt: A golden-brown masala grilled cheese sandwich.
 hero_caption: "The ultimate dorm-room comfort: Masala Grilled Cheese."

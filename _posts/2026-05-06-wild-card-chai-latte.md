@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Tea Tea Latte"
-date: 2026-05-06
+date: 2026-05-03
 categories:
   - wild-card
   - culture
-custom_css: food-blog
+custom_css: premium-food-blog
 hero_image: /assets/images/chai_pouring.png
 hero_alt: Traditional masala chai being poured into a cup.
 hero_caption: "The ritual of pouring chai—a stark contrast to the modern syrup-based latte."

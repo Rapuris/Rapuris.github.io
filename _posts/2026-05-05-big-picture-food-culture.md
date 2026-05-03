@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Old Bay, New Prices"
-date: 2026-05-05
+date: 2026-05-03
 categories:
   - big-picture
   - food-culture

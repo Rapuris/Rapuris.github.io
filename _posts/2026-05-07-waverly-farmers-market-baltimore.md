@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "The Hungry Gap"
-date: 2026-05-07
+date: 2026-05-03
 categories:
   - market-walk
   - baltimore
-custom_css: food-blog
+custom_css: premium-food-blog
 hero_image: /assets/images/waverly_1.png
 hero_alt: A view of the Waverly Farmers Market in Baltimore.
 hero_caption: "The Waverly market in late March—a time of transition and 'hungry gap' reality."
