@@ -2,15 +2,17 @@
 layout: post
 title: "Liver and Let Die"
 date: 2026-02-19
-categories: personal food essay
+categories:
+  - essay
+  - personal
 custom_css: liver-post
+hero_image: /assets/images/liver-hero.svg
+hero_alt: A dark, moody illustration of chicken liver on a plate with a fork
+hero_caption: "Lead illustration for this essay."
+hero_credit: "Image: author (original SVG)."
 ---
 
 <div class="liver-post" markdown="1">
-
-<div class="hero-image-container">
-  <img src="/assets/images/liver-hero.svg" alt="A dark, moody illustration of chicken liver on a plate with a fork" class="hero-image">
-</div>
 
 <p class="tagline">A meditation on routine, rancidity, and reptilian revelations</p>
 
@@ -19,9 +21,9 @@ It's a noble endeavor to be adventurous. To leave one's comfort and venture into
 <div class="image-grid">
   <img src="/assets/images/routine-wheel.svg" alt="A hamster wheel representing the cycle of routine">
 </div>
-<p class="image-caption">The hamster wheel of daily life</p>
+<p class="image-caption">The hamster wheel of daily life. Image: author (original SVG).</p>
 
-Around noon each day, I seek that which delights the tongue in nostalgia. Not a sharp, piercing flavor, but one I can blindly recount with a practiced tongue, like a master pianist playing in the dark. My roommate once joked, "Dude, I could set my watch by the time you eat lunch."
+Around noon each day, I seek that which delights the tongue in nostalgia. Not a sharp, piercing flavor, but one I can blindly recount with a practiced tongue, like a master pianist playing in the dark. Friends have joked they could set a watch by the time I eat lunch.
 
 Except today, something broke my routine.
 
@@ -33,7 +35,7 @@ The first bite of food went into my mouth innocently enough, the texture familia
 The food was so foul that I just sat there, fork suspended midair like a starstruck idiot.
 </div>
 
-I looked around as if something could explain what just happened. I could hear my roommate's voice in my head: "Just try something new for once."
+I looked around as if something could explain what just happened. I could hear a friend's voice in my head: "Just try something new for once."
 
 Well, now I could say that I tried something new.
 
@@ -58,7 +60,7 @@ My mom called soon after. "How was your day, kanna?"
 <div class="image-grid">
   <img src="/assets/images/meal-prep.svg" alt="Color-coded meal prep containers representing routine">
 </div>
-<p class="image-caption">My color-coded life, neatly organized</p>
+<p class="image-caption">My color-coded life, neatly organized. Image: author (original SVG).</p>
 
 "You sound weird. What's wrong?"
 

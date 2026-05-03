@@ -4,31 +4,30 @@ title: About
 permalink: /about/
 ---
 
-<div style="text-align: center; margin-bottom: 2rem;">
-  <img src="/assets/images/about-banner.svg" alt="Chef's hat and utensils" style="max-width: 600px; width: 100%; height: auto; opacity: 0.9;">
+<div class="about-page" markdown="1">
+
+<div class="about-lead">
+  <img src="/assets/images/about-banner.svg" alt="Decorative banner: chef hat and utensils in a simple illustration">
 </div>
 
-## Hi, I'm Sampath! 👋
+## Hi, I'm Sampath
 
-I'm an aspiring food critic and wannabe Gordon Ramsay (minus the yelling... mostly). When I'm not color-coding my meal prep containers or maintaining my frighteningly consistent lunch schedule, you'll find me exploring Baltimore's culinary scene with the enthusiasm of a kid in a candy store.
+I write this blog for a food-and-culture course. I care about honest dining notes, home cooking, and the stories behind what we eat. I keep the tone light when I can, but I try to tell you what actually mattered at the table.
 
-### What I Do
+### What you'll find here
 
-I write about food, restaurants, and the occasional existential crisis triggered by chicken liver. My reviews are honest, my metaphors are questionable, and my willingness to try new things is... improving.
+Restaurant visits, market days, recipes with a little context, and longer essays when something gets stuck in my head. I borrow class terms like *big picture* and *wild card* assignments; those tags are as much for me as for readers tracking the arc of the semester.
 
-### My Philosophy
+### Boundaries (safety and privacy)
 
-Good food shouldn't require a trust fund, and restaurant reviews should tell you what you actually need to know. I believe in celebrating the gems, calling out the disappointments, and never underestimating the power of a well-executed mozzarella stick.
+I use my first name on the site and avoid posting my address, phone number, or class schedule. Photos are either mine or labeled with source and licensing when they are not. If you know me in person, I'd rather talk offline than trade contact details in comments.
 
-### A Few Fun Facts
+### A few real-but-vague facts
 
-- I once set my watch by my lunch schedule (my roommate's words, not mine)
-- My meal prep containers are color-coded because chaos is not a flavor profile
-- I'm working on my "constructive criticism" voice, but it's a work in progress
-- Despite my love of routine, I'm slowly learning that adventure tastes pretty good too
+- I lean hard on routines in daily life, and I'm slowly learning to break them at the stove.
+- I like clear, specific writing about food more than flowery vagueness.
+- I'm based in the Mid-Atlantic and write often about Baltimore-area eating; I don't share my exact neighborhood for privacy.
 
-### Let's Connect
+Welcome to the chronicles. Thanks for reading.
 
-Have a restaurant recommendation? Found a place that serves life-changing chicken liver? Just want to debate whether a $32 pork chop is highway robbery? I'd love to hear from you!
-
-Welcome to my food chronicles. Let's eat! 🍽️
+</div>

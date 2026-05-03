@@ -1,15 +1,15 @@
 ---
 layout: home
-title: Home
+title: Sampath's Food Chronicles
+list_title: Latest posts
+hide_page_heading: true
 ---
 
-<div style="text-align: center; padding: 2rem 1rem; background: linear-gradient(135deg, #f9f6f1 0%, #fdfbf7 100%); border-radius: 12px; margin-bottom: 2rem; box-shadow: 0 2px 8px rgba(107, 68, 35, 0.08);">
-  <h2 style="color: #6b4423; font-size: 2.2rem; margin-bottom: 1rem; font-family: Georgia, serif;">🍽️ Welcome to Sampath's Food Chronicles</h2>
-  <p style="color: #5a4f3e; font-size: 1.2rem; line-height: 1.7; max-width: 700px; margin: 0 auto;">
-    Restaurant reviews, culinary adventures, and honest reflections from an aspiring food critic navigating Baltimore's dining scene—one color-coded meal prep at a time.
+<div class="home-intro">
+  <h2>Welcome to Sampath's Food Chronicles</h2>
+  <p>
+    Restaurant reviews, market walks, recipes with context, and honest reflections from someone who cares how food fits into culture and everyday life—mostly around Baltimore.
   </p>
 </div>
 
-## Latest Posts
-
-Dive into my latest food adventures, restaurant reviews, and the occasional meditation on why chicken liver should come with a warning label.
+<p class="home-section-preface">Big-picture essays, wild-card experiments, farmers' market field notes, and recipe drafts appear in the list below. Draft topics queued in the repo include a chai latte piece, Waverly Farmers' Market, and masala grilled cheese—flip <code>published: true</code> when each post is ready.</p>
