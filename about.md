@@ -1,33 +1,37 @@
 ---
 layout: page
-title: About
+title: About the Chronicles
 permalink: /about/
 ---
 
-<div class="about-page" markdown="1">
-
 <div class="about-lead">
-  <img src="/assets/images/about-banner.svg" alt="Decorative banner: chef hat and utensils in a simple illustration">
+  <img src="/assets/images/about-banner.svg" alt="A clean, minimalist illustration of a kitchen workspace representing culinary exploration.">
 </div>
 
 ## Hi, I'm Sampath
 
-I write this blog for a food-and-culture course. I care about honest dining notes, home cooking, and the stories behind what we eat. I keep the tone light when I can, but I try to tell you what actually mattered at the table.
+Welcome to my food blog. I started this space as part of a food-and-culture course, but it’s grown into a personal archive of honest dining notes, home cooking experiments, and the stories that define what we eat. 
 
-### What you'll find here
+I believe that food is never just about the ingredients on a plate—it's about the people who grew them, the history of the techniques used, and the cultural context of the room where it's served. Whether I'm visiting a local market in Baltimore or trying a new recipe at home, I try to capture what actually *mattered* at the table.
 
-Restaurant visits, market days, recipes with a little context, and longer essays when something gets stuck in my head. I borrow class terms like *big picture* and *wild card* assignments; those tags are as much for me as for readers tracking the arc of the semester.
+### What You’ll Find Here
 
-### Boundaries (safety and privacy)
+- **Big Picture Stories**: Essays that dive into the deeper intersections of food and society.
+- **Wild Card Experiments**: Ambitious projects where I explore new media or unconventional topics, like the cultural origins of the Chai Latte.
+- **Market Walks**: Field notes from local hubs like the Waverly Farmers' Market.
+- **Recipe Drafts**: Authentic home-cooking notes, starting with the story before the stovetop.
 
-I use my first name on the site and avoid posting my address, phone number, or class schedule. Photos are either mine or labeled with source and licensing when they are not. If you know me in person, I'd rather talk offline than trade contact details in comments.
+### Safety and Privacy
 
-### A few real-but-vague facts
+In the interest of digital safety and professional boundaries, I maintain a few rules here:
+- I use my first name only and avoid sharing my exact location, neighborhood, or personal contact details.
+- All photos are either my own work or properly credited and verified for legal reuse.
+- I don't post my class schedule or specific residential details.
 
-- I lean hard on routines in daily life, and I'm slowly learning to break them at the stove.
-- I like clear, specific writing about food more than flowery vagueness.
-- I'm based in the Mid-Atlantic and write often about Baltimore-area eating; I don't share my exact neighborhood for privacy.
+### A Few Quick Facts
 
-Welcome to the chronicles. Thanks for reading.
+- **Philosophy**: I prefer clear, specific writing over flowery food-critic clichés.
+- **Focus**: I’m based in the Mid-Atlantic and have a soft spot for the Baltimore food scene.
+- **Evolution**: This blog is a living document of my culinary education.
 
-</div>
+Thanks for joining me on this journey. If you'd like to chat about food or culture, I'm always happy to talk in person or via my professional channels.

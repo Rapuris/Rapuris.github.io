@@ -7,28 +7,50 @@ layout: default
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
-  {{ content }}
+  <div class="home-intro-wrapper">
+    {{ content }}
+  </div>
 
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading home-section-title">{{ page.list_title | default: "Latest posts" }}</h2>
+    
     <ul class="post-list">
       {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
+      <li class="post-card">
+        {%- if post.hero_image -%}
+          <a href="{{ post.url | relative_url }}">
+            <img src="{{ post.hero_image | relative_url }}" alt="{{ post.hero_alt }}" class="post-card-image">
           </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
         {%- endif -%}
+        
+        <div class="post-card-content">
+          <div class="post-card-meta">
+            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+            {{ post.date | date: date_format }}
+            {%- if post.categories.size > 0 -%}
+              • {{ post.categories | first | replace: '-', ' ' }}
+            {%- endif -%}
+          </div>
+          
+          <h3 class="post-card-title">
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </h3>
+          
+          <div class="post-card-excerpt">
+            {{ post.excerpt | strip_html | truncatewords: 25 }}
+          </div>
+          
+          <a href="{{ post.url | relative_url }}" class="read-more-btn">Read Story →</a>
+        </div>
       </li>
       {%- endfor -%}
     </ul>
 
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+    <div class="rss-wrapper">
+      <p class="rss-subscribe">Stay updated <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+    </div>
   {%- endif -%}
 
 </div>

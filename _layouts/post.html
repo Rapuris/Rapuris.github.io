@@ -9,7 +9,16 @@ layout: default
 <article class="post h-entry blog-post-article" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
+    {% if page.categories.size > 0 %}
+    <div class="post-categories" aria-label="Post categories">
+      {% for c in page.categories %}
+      <span class="post-category">{{ c | replace: '-', ' ' }}</span>
+      {% endfor %}
+    </div>
+    {% endif %}
+
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    
     <p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -19,13 +28,6 @@ layout: default
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {%- endif -%}
     </p>
-    {% if page.categories.size > 0 %}
-    <ul class="post-categories" aria-label="Post categories">
-      {% for c in page.categories %}
-      <li><span class="post-category">{{ c | replace: '-', ' ' }}</span></li>
-      {% endfor %}
-    </ul>
-    {% endif %}
   </header>
 
   {% if page.hero_image %}
@@ -35,7 +37,7 @@ layout: default
     <figcaption class="post-hero-caption">
       {% if page.hero_caption %}{{ page.hero_caption }}{% endif %}
       {% if page.hero_credit %}
-        <span class="post-hero-credit">{% if page.hero_caption %} {% endif %}{{ page.hero_credit }}</span>
+        <span class="post-hero-credit">{% if page.hero_caption %} — {% endif %}{{ page.hero_credit }}</span>
       {% endif %}
     </figcaption>
     {% endif %}
@@ -46,9 +48,15 @@ layout: default
     {{ content }}
   </div>
 
-  {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
-  {%- endif -%}
+  <footer class="post-footer">
+    <div class="post-share">
+      <p>Thanks for reading! If you enjoyed this, please share or check out my other stories.</p>
+    </div>
+    
+    {%- if site.disqus.shortname -%}
+      {%- include disqus_comments.html -%}
+    {%- endif -%}
 
-  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+    <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+  </footer>
 </article>
