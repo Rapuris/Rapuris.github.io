@@ -5,7 +5,7 @@ date: 2026-05-03
 categories:
   - big-picture
   - food-culture
-custom_css: food-blog
+custom_css: premium-food-blog
 hero_image: /assets/images/mussel.png
 hero_alt: Mussels in a pot, representing the seafood culture and the changing tides of the Chesapeake.
 hero_caption: "Seafood remains at the heart of Maryland's identity, even as prices rise."
@@ -17,7 +17,7 @@ published: true
 
 On a sunny Saturday morning, the Ellicott City Diner runs on momentum. Waitresses balance armfuls of plates, coffee pots keep moving, and the air smells like bacon grease and toast.
 
-Frank Varon doesn’t need a menu. He orders what he always does when he wants a treat: the crab cake omelet. But when the check lands on the formica table, the number at the bottom stops him mid-sip.
+Frank Varon doesn’t need a menu. He orders what he always does when he wants a treat: the crab cake omelet. But when the check lands on the Formica table, the number at the bottom stops him mid-sip.
 
 The omelet costs $23.
 

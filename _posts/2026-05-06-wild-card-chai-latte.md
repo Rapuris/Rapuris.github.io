@@ -20,12 +20,12 @@ The first thing you should know is that “chai tea” is redundant. Chai is the
 Chai, in its original form, is loose-leaf Assam black tea simmered in whole milk with crushed cardamom pods, fresh ginger, a cinnamon stick, maybe cloves, maybe black pepper, sugar added at the end and argued over at the table. That’s masala chai, “spiced tea,” and it is not what Starbucks is selling you for $6.25 a cup. For that price, you could buy a box of Assam tea and enough cardamom to last a month. It just wouldn’t come with a green straw and your name misspelled on the side.
 
 ![A chaiwala (tea vendor) pours masala chai in the traditional style.](/assets/images/chai_2.png)
-*A chaiwala (tea vendor) pours masala chai in the traditional style. Brewed on a stove with whole spices and milk.*
+*A chaiwala (tea vendor) pours masala chai in the traditional style. Photograph: Sampath Rapuri.*
 
 What Starbucks is selling is a syrup. <a href="https://www.tazo.com/us/en/products/chai/classic-chai-latte-concentrate.html">Tazo Chai Concentrate</a>, to be exact: black tea, water, sweeteners, ginger extract, vanilla, cinnamon, and additives, mixed with steamed milk in a one-to-one ratio. It is fine. It is reliably fine. But it is also, depending on who you ask, either a gateway into South Asian flavors or a flattened version of them—sweet and approachable in ways that risk making the original invisible.
 
 ![Tazo’s Classic Chai Concentrate contains cane sugar and additives.](/assets/images/tazo_toxic.png)
-*Tazo’s Classic Chai Concentrate contains cane sugar, high fructose corn syrup, additives, and a vague blend of “spices.”*
+*Tazo’s Classic Chai Concentrate contains cane sugar, high fructose corn syrup, and additives. Photograph: Sampath Rapuri.*
 
 “I grew up drinking chai every morning before school,” Arindam Bagga, a junior at Johns Hopkins studying public health, told me. We were sitting in the student center with our respective cups: he had coffee, black; I had, somewhat self-consciously, a chai latte from downstairs. “When I see people at Starbucks ordering ‘chai tea’ and pronouncing it very carefully, I don’t know what to feel. It’s not offensive, exactly. It’s more like the thing they’re drinking and the thing I grew up with have nothing to do with each other. They just share a name.”
 

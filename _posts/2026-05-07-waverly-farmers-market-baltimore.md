@@ -19,7 +19,7 @@ The parsnips at the Cottingham Farm stand look like they have been through somet
 OVERWINTERED IN THE GROUND — SWEETER THAN YOU THINK.
 
 ![The Waverly market in Baltimore during the transition season.](/assets/images/waverly_2.png)
-*The Waverly market in Baltimore during the transition season.*
+*The Waverly market in Baltimore during the transition season. Photograph: Sampath Rapuri.*
 
 It is the last Saturday of March at the 32nd Street Farmers Market in Waverly, and the stalls tell a split story. Half the vendors are selling the tail end of winter — root vegetables pulled from cold storage, frozen pork from last fall's slaughter, eggs from hens just now returning to full production after the short days of January. The other half are selling the promise of spring: trays of tomato seedlings, herb starts in four-inch pots, seed garlic for planting. What almost nobody is selling is fresh spring produce. It does not exist yet.
 
